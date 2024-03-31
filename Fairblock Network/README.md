@@ -1,2 +1,2 @@
-# Manual-Guide
-Coming Soon
+# Fairblock
+Fairblock is building programmable privacy solutions that serve as building blocks for decentralized applications and networks. We’re developing encryption and privacy-preserving services that can be integrated directly into application frontends and as deep as the protocol level of blockchains. No more bootstrapping new decentralized trust networks or protocol layers to access the benefits of privacy; instead, any application or protocol can tie into Fairblock and plug programmable privacy into their tech stack.
