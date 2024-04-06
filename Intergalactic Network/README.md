@@ -1,2 +1,1 @@
-# Manual-Guide
-Coming Soon
+# Omnichain identity DePIN for web3
