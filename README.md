@@ -1,1 +1,1 @@
-# All Installations
+# All Installation
